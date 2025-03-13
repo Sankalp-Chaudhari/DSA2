@@ -1,0 +1,15 @@
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\bin\Debug\net7.0\DataStruct.exe
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\bin\Debug\net7.0\DataStruct.deps.json
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\bin\Debug\net7.0\DataStruct.runtimeconfig.json
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\bin\Debug\net7.0\DataStruct.dll
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\bin\Debug\net7.0\DataStruct.pdb
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.csproj.AssemblyReference.cache
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.AssemblyInfoInputs.cache
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.AssemblyInfo.cs
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.csproj.CoreCompileInputs.cache
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.dll
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\refint\DataStruct.dll
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.pdb
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\DataStruct.genruntimeconfig.cache
+E:\Sankalp\My_C#_Project\DSA2\DataStruct\obj\Debug\net7.0\ref\DataStruct.dll
